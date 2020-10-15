@@ -1,0 +1,13 @@
+fadein
+
+  
+    animation: fadein 1s;
+    animation-play-state: paused;
+    animation-delay: calc(var(--scroll) * -1s);
+
+  @keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+-1s à changer en fonction de l'endroit de la page ou on veut que ce soit fini

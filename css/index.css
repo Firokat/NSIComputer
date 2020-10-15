@@ -1,0 +1,29 @@
+.title{
+    font-size: 15em;
+    padding-top:100px ;
+    text-align: center;
+    padding-bottom: 0.2em;
+    margin-bottom: 0px;
+}
+
+.scroll-arrow{
+    font-size: 15em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50PX;
+}
+
+.pc {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    animation: fadein 1s;
+    animation-play-state: paused;
+    animation-delay: calc(var(--scroll) * -0.5s);
+}
+  
+  @keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
