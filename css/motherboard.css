@@ -1,0 +1,22 @@
+.description{
+    padding-top: 2em;
+    display: flex;
+    padding-left: 5%;
+    margin-right: 5%;
+    font-size: 1.5em;
+}
+
+.description img{
+    display: flex;
+    width: 40%;
+}
+
+div{
+    margin-top: 2em;
+    padding-left: 5%;
+    font-size: 1.7em;
+}
+div ul li{
+    margin-left: 10%;
+    font-size: 0.7em;
+}
