@@ -8,7 +8,7 @@ It's a website that show the main parts of a PC. I had to do the motherboard pag
 
 PS : The website is in french
 
-The site is hosted with Github Pages at [](https://firokat.github.io/NSIComputer)
+The site is hosted with Github Pages at [here](https://firokat.github.io/NSIComputer)
 ## Preview
 
 ![](https://i.ibb.co/W6fx10f/Annotation-2020-10-28-153345.png)
