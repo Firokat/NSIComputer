@@ -4,7 +4,7 @@
 
 This website is the result of a homework I've to do during the Oct hollydays of 2020 in computing class.
 
-It's a website that show the main parts of a PC. I had to do the motherboard page but I also done the index page for fun, the other parts were made by class mates so it wont be on this repo.
+It's a website that show the main parts of a PC. I had to do the motherboard page but I also done the index page for fun, the other parts were made by class mates so it wont be on this repo. It work way better in 1920x1080 resolution
 
 PS : The website is in french
 
